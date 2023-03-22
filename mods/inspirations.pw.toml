@@ -1,0 +1,13 @@
+name = "Inspirations"
+filename = "Inspirations-1.18.2-1.3.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b444afa4b87f6e9dd35d11ceaace0869bc4618d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4072469
+project-id = 284007

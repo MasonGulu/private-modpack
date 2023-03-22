@@ -1,0 +1,13 @@
+name = "All the Metals"
+filename = "allthemetals-v1.4.4-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a95fcff9f6355e55fde39cb9ef4746e6b27a1cf1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4104482
+project-id = 696140
