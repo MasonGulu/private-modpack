@@ -693,6 +693,11 @@ hash = "2cc77c7cd14d666f9a8de5678d541618035ec16f403c195a0e2d0ac43be1fa69"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "bf0298f05d45cb823e0eaddf2d268cde7422cf893ae2d2119dc55c9217d2112a"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "d3b24a39c349c618a17d5f21c88d4bc1e80884938bea620ed1c5fd6ccda65700"
 metafile = true
@@ -765,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "ce5d2baed88bd178956579872719f896f6531ed3692dab4d368cf12445e8f231"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
