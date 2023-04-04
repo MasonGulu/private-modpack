@@ -673,6 +673,11 @@ hash = "90a98f89c7fd522c158b2ad7ac46a9370e4173fbc434f3e13d69dc9a3f7a243e"
 metafile = true
 
 [[files]]
+file = "mods/cctech.pw.toml"
+hash = "4cb71587ca06681dd95fc39aa4855d7c042161ee5df920ca0ffccb947567b9ba"
+metafile = true
+
+[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "3598302cd41b6ad5e541c4892b20c1fb869f795a786c03213eabb5384c4265dd"
 metafile = true
@@ -720,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/daves-building-extended.pw.toml"
 hash = "efbe0eb112dfec12d8b777bda921227fe6b21f1098e8246bac13a4bdd2f94478"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "efcd0983458fe061de429a368241e828258108b8f1cc466d92d2f8cddd8070f8"
 metafile = true
 
 [[files]]
