@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "fa52d761c373a8dd6eb5dff99529af4646e50fd4ffc4722483f7242050e6bb10"
+hash = "05ccdb82398fcb20791b767e27b6653370baf17110ce68969a0fb08a28e6b5ba"
 metafile = true
 
 [[files]]
@@ -839,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "839f962344040ce06f92007035fb4a3d1900c4f03bd8047c0c008b44afc900f8"
+hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
 
 [[files]]
