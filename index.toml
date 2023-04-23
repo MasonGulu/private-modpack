@@ -558,7 +558,7 @@ hash = "a98ceb884db879fe5dcc9917edbeaec7a170d879f0661bc119449409765dc56d"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "ba1bbd63408b5434c69a66c209c3073fdb6b82987066e462c8184532b7c4c7db"
+hash = "08d06aaceeb7f87ff98ee5f25e6c0248c368ce20dd4f34e50916bfeb87079b0a"
 
 [[files]]
 file = "config/tinkers_reforged-common.toml"
@@ -743,6 +743,11 @@ hash = "48bee51017cb5a5fce0780e3ac092b73d98cb5ce22aa4d8ce32d34fbb9b53b11"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "5a857e5ab8720ccd0ec879a6812f25f273a63c2e6af04958da7bff202dd7dd7c"
 metafile = true
@@ -829,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
+hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
 
 [[files]]
@@ -859,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "598fb0ff210d25e9c89975f740d1caebc869dad96c0a81a3c78eb90175745031"
+hash = "4b32494a860c8e4184320b227eaf6a5126b173d2309d2f82ef383cfe1ea77700"
 metafile = true
 
 [[files]]
@@ -869,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "4d341298bc38ae9db10dd756af70e4fb6ce962201600bbc8f42a2e48eeeefeb7"
+hash = "c2730d1451ef6346a0f694e64830e1e2f8ef25923ae9d16cd3f52ae85cbbd2e8"
 metafile = true
 
 [[files]]
