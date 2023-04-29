@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka-ships.pw.toml"
-hash = "48bee51017cb5a5fce0780e3ac092b73d98cb5ce22aa4d8ce32d34fbb9b53b11"
+hash = "bf48a4f0ed654146397ce5ed3f5b47b62dacdd6b4e81a5b1ef42c5c273958b2f"
 metafile = true
 
 [[files]]
@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "05ccdb82398fcb20791b767e27b6653370baf17110ce68969a0fb08a28e6b5ba"
+hash = "b95b4fb2513b1285be3779b75b3bb6923790691c6037e04c1803030d267f0cd9"
 metafile = true
 
 [[files]]
@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "8854e47ecb28659355acd89e0b56bb1c75bc1fb67c9eed071e574014d3c7f892"
+hash = "485e1aefa205baa57b29c54af2987257e06ef09516a32fb70759bbc700f2a337"
 metafile = true
 
 [[files]]
@@ -869,17 +869,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1e6edc81e678ea6fd338ac67a769e25dc2a4a58fa2ff021ca069d0d37661ba68"
+hash = "b6b498a9f1b80adbfe34254dd53f00b875deac0e63f7672d4e6f452bcaf5e08f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c2730d1451ef6346a0f694e64830e1e2f8ef25923ae9d16cd3f52ae85cbbd2e8"
+hash = "cd18c7a6c691dfec5091f678a2e813ea64d44513f71b338584940a77468d41a9"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5afd2bbb038204601b83adbb9ed9408be06fc3c6d88f334e7631e59c2dd91252"
+hash = "9b562d1d3820b7d51b4553307965ec4fc37a8948beb2df5c65a924e2df602089"
 metafile = true
 
 [[files]]
@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "59e4f827ee3454a896f49ec72a98c4dad7de3a329bab60f6f73be54aca66f5e1"
+hash = "5beb03d52b7e600050191fca1694eae3d70622a3f02f9cf423bf8fcd4f5f6d26"
 metafile = true
 
 [[files]]
