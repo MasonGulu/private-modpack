@@ -936,3 +936,8 @@ metafile = true
 file = "mods/valkyrien-skies.pw.toml"
 hash = "25c81d925a001d1ec7d4f95825048d37a839957488d65484135e9e7618a67f96"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "a9cf486c6665921340d9ad0b2c5d7f4f9d65c4b6722330a65ae36976f0babbfb"
+metafile = true
