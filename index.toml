@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "3598302cd41b6ad5e541c4892b20c1fb869f795a786c03213eabb5384c4265dd"
+hash = "506f6217a0ec5eb8b9b25cd37e2820c0117e31e494b7f787db67ba411fa8c2a3"
 metafile = true
 
 [[files]]
@@ -799,12 +799,12 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "ee1ee7a327ab99accfd09c935272f85188fee63aa0e77807b9dea39067f5a3dc"
+hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "b95b4fb2513b1285be3779b75b3bb6923790691c6037e04c1803030d267f0cd9"
+hash = "6c75d6602b3e6624167ff2f3c6eb2ca5ab4771853fc9282e7d2566efe2d7a20d"
 metafile = true
 
 [[files]]
@@ -869,17 +869,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "4b32494a860c8e4184320b227eaf6a5126b173d2309d2f82ef383cfe1ea77700"
+hash = "ff6fcbc67cc936b33f47b2d03d142c7657e8a86ca702d7ebf7254b1a95fd7908"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "b6b498a9f1b80adbfe34254dd53f00b875deac0e63f7672d4e6f452bcaf5e08f"
+hash = "6302f721c0a030d177d3c74793c75d48171113aab04a9cdadd23f1c1ac88bbd6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "cd18c7a6c691dfec5091f678a2e813ea64d44513f71b338584940a77468d41a9"
+hash = "028ff346f85460605760c86a76559ea8255ad51b0fe9cf9e353c38e67ed53b2d"
 metafile = true
 
 [[files]]
@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "25c81d925a001d1ec7d4f95825048d37a839957488d65484135e9e7618a67f96"
+hash = "4a60d367ca04410e74f666b45093e36eef4723ffd0ea22a7b938d64f94de2372"
 metafile = true
 
 [[files]]
