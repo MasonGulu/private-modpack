@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "d3b24a39c349c618a17d5f21c88d4bc1e80884938bea620ed1c5fd6ccda65700"
+hash = "63f1e2da93c16ad02ab9bb791d5efe4d02631a839da482f94dfe1b802974b014"
 metafile = true
 
 [[files]]
@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "25c81d925a001d1ec7d4f95825048d37a839957488d65484135e9e7618a67f96"
+hash = "4a60d367ca04410e74f666b45093e36eef4723ffd0ea22a7b938d64f94de2372"
 metafile = true
 
 [[files]]
