@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/cctech.pw.toml"
-hash = "b3a5ee73792c9683e942dc6ce71a2be49145452d090cc6bd83bba3eb7a5fc201"
+hash = "4cb71587ca06681dd95fc39aa4855d7c042161ee5df920ca0ffccb947567b9ba"
 metafile = true
 
 [[files]]
