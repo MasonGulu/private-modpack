@@ -1,13 +1,13 @@
 name = "CCTech"
-filename = "cctech-1.18.2-0.1.5.jar"
+filename = "cctech-1.18.2-0.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/C2Qt4lbG/versions/9IaypsBj/cctech-1.18.2-0.1.5.jar"
+url = "https://cdn.modrinth.com/data/C2Qt4lbG/versions/sTDTjkHB/cctech-1.18.2-0.1.6.jar"
 hash-format = "sha1"
-hash = "37d000a9a6b8d1e5d97c4af1eb01dceed31ca6b5"
+hash = "e83df37150ab00f15210f195a49e4570b5e0d833"
 
 [update]
 [update.modrinth]
 mod-id = "C2Qt4lbG"
-version = "9IaypsBj"
+version = "sTDTjkHB"

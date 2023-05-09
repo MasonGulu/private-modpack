@@ -674,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/cctech.pw.toml"
-hash = "4cb71587ca06681dd95fc39aa4855d7c042161ee5df920ca0ffccb947567b9ba"
+hash = "b3a5ee73792c9683e942dc6ce71a2be49145452d090cc6bd83bba3eb7a5fc201"
 metafile = true
 
 [[files]]
@@ -874,12 +874,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "6302f721c0a030d177d3c74793c75d48171113aab04a9cdadd23f1c1ac88bbd6"
+hash = "f0ce789f3fb532c9d41591d8b9619e336833da1d83822b1423ec3f1239f3d153"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "028ff346f85460605760c86a76559ea8255ad51b0fe9cf9e353c38e67ed53b2d"
+hash = "421a513785f8ca30c5dadcb7fbbb10dc03e4662d29a606a153da900c4e23e004"
 metafile = true
 
 [[files]]
