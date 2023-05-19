@@ -658,6 +658,11 @@ hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3d349f02c4ffd6a8252db88e6168f9037601660a73fd282c4203a199e9997e"
+metafile = true
+
+[[files]]
 file = "mods/calemi-core.pw.toml"
 hash = "f004df575f8b6828d4b5e1b00b44070f7f1c4f2dc162734e96e636662506a50a"
 metafile = true
@@ -674,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/cctech.pw.toml"
-hash = "4cb71587ca06681dd95fc39aa4855d7c042161ee5df920ca0ffccb947567b9ba"
+hash = "0ba8357b8d379b21ab7edf2c4cafd7bcc52469eb58f4425708dae9c14a72ea63"
 metafile = true
 
 [[files]]
@@ -833,6 +838,11 @@ hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "c7c3f6373959e1efe3f0c6aad9da00b109bb34ef27eeec1765dde28c7e29ae1a"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true
@@ -914,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-levelling-addon.pw.toml"
-hash = "58381a5a3253b8079c9e1ebe0822fe9134b22d8f35e3768291744b7226be740b"
+hash = "50bceab0843e98643b9bf6b68476b84dafa23901ad2e013378c5925296ff2a0d"
 metafile = true
 
 [[files]]
@@ -934,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "4a60d367ca04410e74f666b45093e36eef4723ffd0ea22a7b938d64f94de2372"
+hash = "f12c2617cac977d43c28767d3f59543d5121754307cd509525fef38703dc96ec"
 metafile = true
 
 [[files]]
