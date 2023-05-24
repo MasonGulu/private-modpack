@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "bf3d5e86acf5331a02cbf6d9717c94c55fd4fc675f8690a51cd13f8ba499e8b6"
+hash = "6dcfc12ff55bdb2de2f1c68689721b79dc224884fb2f9ad4fa7c17c59887ca43"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
+hash = "44adf13d7981264098ef73a1e914bcf4c759f170b3aedad4038a6967f89864dd"
 metafile = true
 
 [[files]]
@@ -879,17 +879,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ff6fcbc67cc936b33f47b2d03d142c7657e8a86ca702d7ebf7254b1a95fd7908"
+hash = "39a7725a41cc350f8ab4de37432616f4e60ce1f00ee32bada39336ec365a24da"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f0ce789f3fb532c9d41591d8b9619e336833da1d83822b1423ec3f1239f3d153"
+hash = "5c4ef6fc05ddfca64bc987576a913d563aeda648a906ff693cdfe94e003d903e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "421a513785f8ca30c5dadcb7fbbb10dc03e4662d29a606a153da900c4e23e004"
+hash = "7821d9dac42b9c1a944861a9a29c0a9487705c5fa9e46b1d36f44e8c4095194a"
 metafile = true
 
 [[files]]
@@ -899,7 +899,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9b562d1d3820b7d51b4553307965ec4fc37a8948beb2df5c65a924e2df602089"
+hash = "bbcac108eb3d98535842213f234673bb2725e8abed191c8dc5c3893a3675999a"
 metafile = true
 
 [[files]]
