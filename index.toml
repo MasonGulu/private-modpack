@@ -713,6 +713,11 @@ hash = "63f1e2da93c16ad02ab9bb791d5efe4d02631a839da482f94dfe1b802974b014"
 metafile = true
 
 [[files]]
+file = "mods/create-crafts-and-additions.pw.toml"
+hash = "3bad491224e4a972591b3898b419e7d8995ab1816f1fc7962793d36445d3ae7e"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "742a9f78528742435f58af062cff491595aca212d201557e92bd120f402c7877"
 metafile = true
