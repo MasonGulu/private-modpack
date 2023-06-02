@@ -678,11 +678,6 @@ hash = "90a98f89c7fd522c158b2ad7ac46a9370e4173fbc434f3e13d69dc9a3f7a243e"
 metafile = true
 
 [[files]]
-file = "mods/cctech.pw.toml"
-hash = "0ba8357b8d379b21ab7edf2c4cafd7bcc52469eb58f4425708dae9c14a72ea63"
-metafile = true
-
-[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "506f6217a0ec5eb8b9b25cd37e2820c0117e31e494b7f787db67ba411fa8c2a3"
 metafile = true
