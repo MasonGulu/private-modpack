@@ -728,6 +728,11 @@ hash = "3d22456ed14c5f4abaf5a1b3dfcfaff3626f595f353176eec276f70dffdef6fd"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "425511f147954812f0a1e476a927900636ec7ba460de61f5e6bf5be210267f54"
+metafile = true
+
+[[files]]
 file = "mods/daves-building-extended.pw.toml"
 hash = "efbe0eb112dfec12d8b777bda921227fe6b21f1098e8246bac13a4bdd2f94478"
 metafile = true
