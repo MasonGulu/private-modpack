@@ -738,6 +738,11 @@ hash = "efbe0eb112dfec12d8b777bda921227fe6b21f1098e8246bac13a4bdd2f94478"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "8da8f950c59c83e7c7a38bbbca19e94f78be242d2883cc764e435eec167d9b65"
+metafile = true
+
+[[files]]
 file = "mods/dynmap.pw.toml"
 hash = "73db4141f03c1b8bd8c89aa5808363b7e0b05983b687323a8b40457090db5d45"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Distant Friends"
+filename = "DistantFriends-1.18.2-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDaJ8xGu/versions/WhUR0g09/DistantFriends-1.18.2-0.1.2.jar"
+hash-format = "sha1"
+hash = "992fe390f13ae4118d0d3372be02506c2bb4881f"
+
+[update]
+[update.modrinth]
+mod-id = "CDaJ8xGu"
+version = "WhUR0g09"
