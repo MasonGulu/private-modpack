@@ -663,6 +663,11 @@ hash = "6d3d349f02c4ffd6a8252db88e6168f9037601660a73fd282c4203a199e9997e"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
+hash = "fb694b2ac3ce618e01b4284e52025b26fe4bf9721132854836c0a985fdd7fabb"
+metafile = true
+
+[[files]]
 file = "mods/calemi-core.pw.toml"
 hash = "f004df575f8b6828d4b5e1b00b44070f7f1c4f2dc162734e96e636662506a50a"
 metafile = true
