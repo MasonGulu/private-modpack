@@ -703,6 +703,11 @@ hash = "c46d3c870f08414a880c770fdf2a574cc1a71ffff453de5fafb892dab94a1bd4"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "384e82d40b2d7a18f8381717be97da4093b3701ba1212735670a0c1fe7b02f07"
 metafile = true
@@ -824,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "18bc9acafec65d57b5273aa3f7f1098667cfe8ecd528c755ea8655997589db13"
+hash = "2e33c473b0aee1140f6c90185f1f4c1c79116237e7859901bde8cc97b2bd5711"
 metafile = true
 
 [[files]]
