@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "6dcfc12ff55bdb2de2f1c68689721b79dc224884fb2f9ad4fa7c17c59887ca43"
+hash = "3b70a589cf24b5248832d89cc125f9af9a019cd86102a81c2619bb049ef1f75e"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-friends.pw.toml"
-hash = "8da8f950c59c83e7c7a38bbbca19e94f78be242d2883cc764e435eec167d9b65"
+hash = "ffacd5a5b99bb7dd570fe6999e6aebcc0002cdc9617663a2a68e6e333666d21b"
 metafile = true
 
 [[files]]
@@ -754,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmap.pw.toml"
-hash = "73db4141f03c1b8bd8c89aa5808363b7e0b05983b687323a8b40457090db5d45"
+hash = "567035fc028d9c698d82bb8d3a35f126597e99a7d5f3edd59c14fbccdbae88e2"
 metafile = true
 
 [[files]]
@@ -914,17 +914,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "316f6d72b1515dcc65cb20260b93c35f397dc8f6dd8734620283202266fee9e6"
+hash = "356f9483aee50732cf162981225ea40a301099b82d570fb1ed6deadc78b16474"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1d970ad68ac485785324ada8e723f08b1726faa3ba3ddca1b3c268b610eeb084"
+hash = "0866eec76506349842436646b3d70dd8afa6f7fd49b1ac6e16aeca61be4fd94b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "73ad0dab6b5eb26d894aec430610eb34c800ba92ae78dc08fd1e1b7b1c1feb37"
+hash = "1dfc377b62fddd24d5b978eabc269d9d9438e56b94b8f25d185a77315728329d"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "f12c2617cac977d43c28767d3f59543d5121754307cd509525fef38703dc96ec"
+hash = "9e678eb389661ec070d6adc97e423b6b3b7da876c738dd59ffe3c2d3d1b25489"
 metafile = true
 
 [[files]]
