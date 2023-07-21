@@ -798,6 +798,11 @@ hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "f9f6c2d11d1b24090fcfa896d4d8715338c05cf35030d86724352aa636eb3ec7"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "9e2c3c516e654b072b6308bfc04052f2a51262843750c807d23a2aef68e916fb"
 metafile = true
