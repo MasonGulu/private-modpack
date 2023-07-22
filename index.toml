@@ -913,6 +913,11 @@ hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
 
 [[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "e4ef615daeba70206a2cb29675ec8686c67bcde5d9adc59e5300ceef5ee8d531"
+metafile = true
+
+[[files]]
 file = "mods/serversleep.pw.toml"
 hash = "18ef9ed32b347bee4e121c66c8bd88459bd21cb3c83a7d8c3f222ad9e45a67d6"
 metafile = true
