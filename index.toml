@@ -688,6 +688,11 @@ hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "dd37f8dd2520e55ca2d3c85d92de682c31e4fdedea64a090bca80e1f0d3fd80a"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
 metafile = true
@@ -703,6 +708,11 @@ hash = "76bd020482eb12f83f7232370e6a371ab0b429e3c3358d2cb8a9d04c709d9bb1"
 metafile = true
 
 [[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "ecf370997609f5d2b35c85c6516eca0d4fbf86399d2116fcf6337f2f3bccb6b4"
+metafile = true
+
+[[files]]
 file = "mods/create-crafts-and-additions.pw.toml"
 hash = "c46d3c870f08414a880c770fdf2a574cc1a71ffff453de5fafb892dab94a1bd4"
 metafile = true
@@ -715,6 +725,16 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "384e82d40b2d7a18f8381717be97da4093b3701ba1212735670a0c1fe7b02f07"
+metafile = true
+
+[[files]]
+file = "mods/create-industry.pw.toml"
+hash = "b1233c6fc3c0cb71350915de3ffa66a985f1cff510cf73ed3c6fc08d20f804bf"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "93257a19c27fa027cdbd9c64139639b4affbcc63fb8ac114a814ed0116889740"
 metafile = true
 
 [[files]]
@@ -980,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-reforged.pw.toml"
 hash = "2dcc811b0395dded539a2fbb248932ca16a5584de039eaaa3e91915c169348da"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "26db6f343cb25ccf874e410cfcd7523c7e6accfe512e7a0452b28c9e04881f21"
 metafile = true
 
 [[files]]
