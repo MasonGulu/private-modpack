@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "2e33c473b0aee1140f6c90185f1f4c1c79116237e7859901bde8cc97b2bd5711"
+hash = "2149ae56e5c49922cf6d39ff6a0024e0b188947c256cb3a3a7d96783df24d834"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-car-mod.pw.toml"
-hash = "26db6f343cb25ccf874e410cfcd7523c7e6accfe512e7a0452b28c9e04881f21"
+hash = "7dc3ff71f2a16e625b4b9687ed3de22e3d47f53bee3c2cf510ffd6e011d2a292"
 metafile = true
 
 [[files]]
