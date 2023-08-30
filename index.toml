@@ -634,7 +634,7 @@ hash = "cb198ebeea7e841e91a11a9f8b72e51ba6da8062b26a8d9c113b90b9191be07f"
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "39b33a34b4d819e55e18c7e0497e5d31fa1f0543f66f277f407424d77e99663c"
+hash = "bf9eb80716783254346903f620b4300c77467bc6266a4111d7adb66892cf999b"
 metafile = true
 
 [[files]]
@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-crafts-and-additions.pw.toml"
-hash = "c46d3c870f08414a880c770fdf2a574cc1a71ffff453de5fafb892dab94a1bd4"
+hash = "2501a135e13170ec58f946ba34eea02562651a4e4ce3277802b912d32bf8a507"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "384e82d40b2d7a18f8381717be97da4093b3701ba1212735670a0c1fe7b02f07"
+hash = "7639c7a03445e62023b667e7633891fbf0abcd9b78f9b042bfdd92e55cd81dcc"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "93257a19c27fa027cdbd9c64139639b4affbcc63fb8ac114a814ed0116889740"
+hash = "5809a4241df1ba921e6f0411b0a63c3fde38834e2cc6e9d49426b25198bb41e7"
 metafile = true
 
 [[files]]
@@ -744,12 +744,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "3784ec6b655c309457669408768a2d90e892eb63fafe5ba267e47ba93572388d"
+hash = "45ee3326fa27dcc972a4d3dca237117e9ba25b6d2cb060d6afd504fd2896ae4f"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1dbdebfd71ddca60a889c2f01da1253e128c4ca193dac84f96143f0913c50699"
+hash = "f8f420ecca3eeccc8ad458369654f2f73e0a729472d95afd019e819b2a5b73ee"
 metafile = true
 
 [[files]]
@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka-ships.pw.toml"
-hash = "bf48a4f0ed654146397ce5ed3f5b47b62dacdd6b4e81a5b1ef42c5c273958b2f"
+hash = "2dadc536704b5b1ef32028a4fcb44d3cfc4aa1b49824324d918893d5156c1a81"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "f9f6c2d11d1b24090fcfa896d4d8715338c05cf35030d86724352aa636eb3ec7"
+hash = "02c7de63577f96eb32a3e4ef46d2518f8c74cb89a42c78f47c1550daedf9a445"
 metafile = true
 
 [[files]]
@@ -859,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "mods/lightmans-currency.pw.toml"
-hash = "2149ae56e5c49922cf6d39ff6a0024e0b188947c256cb3a3a7d96783df24d834"
+hash = "7019fa2d816243f2bd7342165bc9c775c17e48ad04ab7045c0f961f10e84a90b"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+hash = "c5ebf0fb867ab9cacccbb59e2cb891e5579098866e5a6bde63fe617b9b7ce12f"
 metafile = true
 
 [[files]]
@@ -949,12 +949,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "0866eec76506349842436646b3d70dd8afa6f7fd49b1ac6e16aeca61be4fd94b"
+hash = "b851c35124b70292391c9b4dcdeb7205d36c7649e976909d3e1ba5a265c8fb16"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "1dfc377b62fddd24d5b978eabc269d9d9438e56b94b8f25d185a77315728329d"
+hash = "6cf54be04d2676dd775949c2025e0f3a2019c43939ae9ddf56fb8962f5f9ab2c"
 metafile = true
 
 [[files]]
@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcintegrations.pw.toml"
-hash = "74d3cf78639d948d0d194645791536442ca408838f2b568377aa896e2c6a8a38"
+hash = "09182bd1b3fc6dd06653f717c830d9952a20a51ad3a673fc8a8e016c08ec65c7"
 metafile = true
 
 [[files]]
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-reforged.pw.toml"
-hash = "2dcc811b0395dded539a2fbb248932ca16a5584de039eaaa3e91915c169348da"
+hash = "c96372caa7e89642503ee314f8a70a8f2ae5d11f503ad88feb148693acd281de"
 metafile = true
 
 [[files]]
@@ -1019,5 +1019,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "a9cf486c6665921340d9ad0b2c5d7f4f9d65c4b6722330a65ae36976f0babbfb"
+hash = "cbfd54ed2799938b8de48fbf0464dba5f697ad5e108415a0aaaa8b065ae5f094"
 metafile = true
